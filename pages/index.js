@@ -3,7 +3,7 @@ import { About, Explore, Feedback, GetStarted, Hero, Insights, WhatsNew, World }
 
 
 const Page = () => (
-  <div className="bg-white overflow-hidden font-abc">
+  <div className="bg-blue-200 overflow-hidden font-abc">
     <Navbar />
     <Hero />
     <div className="relative">
