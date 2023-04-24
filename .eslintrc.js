@@ -4,6 +4,7 @@ module.exports = {
     es2021: true,
   },
   extends: [
+    'next',
     'plugin:react/recommended',
     'airbnb',
   ],
@@ -18,7 +19,7 @@ module.exports = {
     'react',
   ],
   rules: {
-    'react/no-unescaped-entities': 0,
+    'react/no-unescaped-entities': "off",
     'eslintreact/no-danger': 0,
     'react/jsx-max-props-per-line': 0,
     'react/jsx-first-prop-new-line': 0,
