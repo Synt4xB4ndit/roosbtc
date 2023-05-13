@@ -31,7 +31,7 @@ const Feedback = () => (
         <p className="mt-[24px] font-normal sm:text-[24px] text-[18px] sm:leading-[45.6px] leading-[39.6px] text-orange-400">
           Roos NFT are here to help you onboard easily to begin joining the community
           and experience the vibe. Holding a Roos' ensures forever owning a Satoshi on the Bitcoin blockchain as a staple in history. To learn more about us
-          or Bitcoin Ordinals check out our Discord or Twitter or learn how we're building together.
+          or Bitcoin Ordinals check out our Discord or Twitter and learn how we're building together.
         </p>
       </motion.div>
 

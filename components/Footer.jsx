@@ -22,7 +22,7 @@ const Footer = () => (
         </h4>
 
         <button type="button" className="flex items-center h-fit  py-4 px-6 bg-orange-400 rounded-[32px] gap-[12px]">
-          <a href="https://discord.gg/83QwCKHy" target="_blank" rel="noreferrer" >
+          <a href="https://discord.com/invite/WFtqy3Ndyd" target="_blank" rel="noreferrer" >
           <img
             src="/rooicon.png"
             alt="roosimg"

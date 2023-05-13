@@ -24,7 +24,7 @@ export const exploreWorlds = [
   {
     id: 'world-5',
     imgUrl: '/cartmanroo.jpg',
-    title: 'Cartman Roo',
+    title: 'Jesse Roo',
   },
 ];
 
@@ -52,7 +52,7 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/safariroostwo.JPEG',
-    title: 'Mint Cost: TBD',
+    title: 'Mint Cost: $30 in BTC',
   },
 
 ];
